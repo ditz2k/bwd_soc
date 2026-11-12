@@ -1,0 +1,10 @@
+{
+  "id": "bwd_soc",
+  "name": "bwd_soc",
+  "description": "Video Wall using AMX N3300 and Samsung Display",
+  "disabled": false,
+  "provider": "python",
+  "scope": "",
+  "script": "bwd_soc.py",
+  "envvars": {}
+}
